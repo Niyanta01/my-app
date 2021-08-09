@@ -1,0 +1,8 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="2" />
+      <entry action="Rerun@RunnerToolbar" count="7" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,29 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Undo" count="1" />
+      <entry action="ActivatePythonConsoleToolWindow" count="2" />
+      <entry action="ActivateTerminalToolWindow" count="2" />
+      <entry action="CopyPaths" count="1" />
+      <entry action="EditorBackSpace" count="134" />
+      <entry action="EditorChooseLookupItem" count="21" />
+      <entry action="EditorCopy" count="4" />
+      <entry action="EditorDeleteToWordStart" count="1" />
+      <entry action="EditorDown" count="4" />
+      <entry action="EditorEnter" count="32" />
+      <entry action="EditorLeft" count="47" />
+      <entry action="EditorPaste" count="1" />
+      <entry action="EditorRight" count="67" />
+      <entry action="EditorTab" count="1" />
+      <entry action="EditorUp" count="5" />
+      <entry action="FileChooser.GotoDesktop" count="2" />
+      <entry action="NewDirectoryProject" count="1" />
+      <entry action="NewPythonFile" count="1" />
+      <entry action="OpenFile" count="1" />
+      <entry action="Rerun" count="7" />
+      <entry action="RunClass" count="7" />
+      <entry action="SaveAll" count="26" />
+      <entry action="ShowSettings" count="1" />
+    </counts>
+  </component>
+</application>

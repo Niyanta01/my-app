@@ -1,0 +1,11 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="File -&gt; New Project..." count="1" />
+      <entry path="File -&gt; Open..." count="1" />
+      <entry path="File -&gt; Settings..." count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Python Console" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Terminal" count="2" />
+    </counts>
+  </component>
+</application>
